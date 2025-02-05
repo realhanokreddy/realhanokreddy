@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realhanokreddy
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Generative AI
+- 🌱 I’m currently working on Agentic Frameworks
 - 📫 You can reach me through my email - hanokreddy.velugoti@gmail.com
 
 <!---
